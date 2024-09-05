@@ -1,5 +1,5 @@
 # ankit_rnn
 
-Read tutorial notebook for basic info
+Run tutorial notebook for files
 
-Notebook file generated everything, .pth files are the model files in case needed, numpy files not here b/c too big
+Notebook file is source code, numpy files too big, so have to load model then generate trials from model
